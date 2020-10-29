@@ -1,0 +1,22 @@
+------------------------PART 1 ----------------
+code the ! in the login.php then paste the starter template in it
+now earse the hello world line in this and write the navbar code which is stored in another document 
+modify by typing "loginsystem" before home this takes us to main page as we click on home 
+now change the navbar to ur req name and also modify as same as above step
+clear the dropdown code and disabled code
+copy aste the loginsystem code and modify accordingly to connnect login and sginup  and logout php files
+design the signup code by writing div in which give the <h1>
+then copy the forms(bootstrap) and paste it make the req changes
+insert col-md-6 for better desgin
+
+-------------------------Part 2 ----------------------
+create a new database(users) in php admin  and create the table of 4 rows
+copy an alert (bootstrap)and paste below partal_navbar
+this indicates tht the new user data has been insertd
+create a php file in partials and write the code of connection
+include this php file in signup php file
+code the request method - check password and error
+                        - $sql insert command
+                        - show alert
+                        - show error if password is wrong
+
